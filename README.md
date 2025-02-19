@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Python,Javascript, Typescript, Next JS, React**
+- 💬 Ask me about **Javascript, Typescript, Next JS, React, Python**
 
 - 📫 How to reach me **shubham.gupta.npd@gmail.com**
 
