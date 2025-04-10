@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubham-wb" target="blank"><img src="https://img.shields.io/twitter/follow/shubham-wb?logo=twitter&style=for-the-badge" alt="shubham-wb" /></a> </p>
 
-- 🌱 I’m currently learning **Vibe Coding** 😂🤣🤣 
+- 🌱 I’m currently learning ****
 
 - 💬 Ask me about **Javascript, Typescript, Next JS, React, Python**
 
